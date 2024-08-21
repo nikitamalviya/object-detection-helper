@@ -1,5 +1,5 @@
 '''
-This moddule contains the source code to filter out the bounding boxes, to have a improved and best considered bboxes for detections using:
+This module contains the source code to filter out the bounding boxes, to have a improved and best considered bboxes for detections using:
 1. Threshold score(confidence score for detection of a bbox)
 2. NMS score (the overlapping score between two the bounding boxes using IoU)
 '''
